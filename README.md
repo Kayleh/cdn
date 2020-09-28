@@ -62,3 +62,5 @@ git push                      //推送至远程仓库
   https://cdn.jsdelivr.net/gh/jquery/jquery@3.2.1/src/core.min.js
 - // 在末尾添加 / 以获取资源目录列表
   https://cdn.jsdelivr.net/gh/jquery/jquery/
+  
+  https://cdn.jsdelivr.net/gh/kayleh/cdn/img/2.jpg
